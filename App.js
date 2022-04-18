@@ -45,8 +45,8 @@ let i=1;
          .toLowerCase()))
          .map((item ,index)=> {
           return (
-            <View>
-             <Text key={index}>{i++}.{" "}{item.name}</Text>
+            <View key={index}>
+             <Text>{i++}.{" "}{item.name}</Text>
             </View>
           )
       })
