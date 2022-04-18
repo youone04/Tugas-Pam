@@ -1,4 +1,4 @@
-1. Nama Aplikasi : Search Konta Nama Kontak
+1. Nama Aplikasi : Search  Nama Kontak
 2. Deskripsi : Aplikasi ini digunakan untuk mencari nama - nama kontak yang sudah tersimpan dalam
 handphone
 3. Daftar package
